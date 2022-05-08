@@ -14,7 +14,7 @@ export default {
     data() {
         return{
             PhotoUrl: require('../assets/C3v.png'),
-            AnswerName: 'C3v'
+            AnswerName: 'Cnv'
         }
     }
 }
