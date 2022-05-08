@@ -66,6 +66,7 @@
   <footer>
     <div class="item">
       <p>参考：シュライバー・アトキンス無機化学(上)</p>
+      <p>分子画像：MolView</p>
     </div>
     <div class="item">
       <p>about me</p>
